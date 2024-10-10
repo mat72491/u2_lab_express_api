@@ -1,0 +1,21 @@
+{
+  "name": "u2_lab_express_api",
+  "version": "1.0.0",
+  "description": "### Express / Mongoose API From Scratch",
+  "main": "query.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon query.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
